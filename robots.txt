@@ -47,4 +47,4 @@ Disallow: /
 User-agent: meta-externalagent
 Disallow: /
 
-Sitemap: https://deskgame.space/sitemap.xml
+Sitemap: https://gamehub.city/sitemap.xml

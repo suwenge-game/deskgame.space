@@ -4,17 +4,17 @@
 
 ## Primary page
 
-- [Daily Word Puzzle](https://deskgame.space/): Guess a five-letter word in six tries. Every guess receives green, gold, and gray letter feedback.
+- [Daily Word Puzzle](https://gamehub.city/): Guess a five-letter word in six tries. Every guess receives green, gold, and gray letter feedback.
 
 ## Content pages
 
-- [Daily puzzle](https://deskgame.space/daily/): The date-seeded puzzle, yesterday's answer, and local streak summary.
-- [Rules](https://deskgame.space/rules/): Guess requirements, duplicate-letter evaluation, tile colors, and keyboard states.
-- [Strategies](https://deskgame.space/strategies/): Starting words, vowel coverage, consonant patterns, position elimination, and double letters.
-- [Scoring](https://deskgame.space/scoring/): Win percentage, streaks, guess distribution, and browser storage.
-- [Word notes](https://deskgame.space/research/): How the answer and accepted-guess dictionaries are curated.
-- [Printable practice](https://deskgame.space/printable/): Offline five-letter deduction grids.
-- [About](https://deskgame.space/about/), [Editorial policy](https://deskgame.space/editorial-policy/), [Privacy](https://deskgame.space/privacy/), [Terms](https://deskgame.space/terms/), and [Contact](https://deskgame.space/contact/).
+- [Daily puzzle](https://gamehub.city/daily/): The date-seeded puzzle, yesterday's answer, and local streak summary.
+- [Rules](https://gamehub.city/rules/): Guess requirements, duplicate-letter evaluation, tile colors, and keyboard states.
+- [Strategies](https://gamehub.city/strategies/): Starting words, vowel coverage, consonant patterns, position elimination, and double letters.
+- [Scoring](https://gamehub.city/scoring/): Win percentage, streaks, guess distribution, and browser storage.
+- [Word notes](https://gamehub.city/research/): How the answer and accepted-guess dictionaries are curated.
+- [Printable practice](https://gamehub.city/printable/): Offline five-letter deduction grids.
+- [About](https://gamehub.city/about/), [Editorial policy](https://gamehub.city/editorial-policy/), [Privacy](https://gamehub.city/privacy/), [Terms](https://gamehub.city/terms/), and [Contact](https://gamehub.city/contact/).
 
 ## Key facts
 
