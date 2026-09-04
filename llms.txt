@@ -1,0 +1,25 @@
+# Daily Riddle Words
+
+> An English daily word puzzle site with an original, browser-based five-letter guessing game, practical rules, strategy guides, and local streak statistics.
+
+## Primary page
+
+- [Daily Word Puzzle](https://deskgame.space/): Guess a five-letter word in six tries. Every guess receives green, gold, and gray letter feedback.
+
+## Content pages
+
+- [Daily puzzle](https://deskgame.space/daily/): The date-seeded puzzle, yesterday's answer, and local streak summary.
+- [Rules](https://deskgame.space/rules/): Guess requirements, duplicate-letter evaluation, tile colors, and keyboard states.
+- [Strategies](https://deskgame.space/strategies/): Starting words, vowel coverage, consonant patterns, position elimination, and double letters.
+- [Scoring](https://deskgame.space/scoring/): Win percentage, streaks, guess distribution, and browser storage.
+- [Word notes](https://deskgame.space/research/): How the answer and accepted-guess dictionaries are curated.
+- [Printable practice](https://deskgame.space/printable/): Offline five-letter deduction grids.
+- [About](https://deskgame.space/about/), [Editorial policy](https://deskgame.space/editorial-policy/), [Privacy](https://deskgame.space/privacy/), [Terms](https://deskgame.space/terms/), and [Contact](https://deskgame.space/contact/).
+
+## Key facts
+
+- The game engine is an original dependency-free JavaScript implementation.
+- More than 500 answer words and more than 2,000 accepted guesses are hardcoded in the site.
+- A deterministic date seed selects the same daily answer for every player.
+- Shared emoji grids do not reveal letters or the answer.
+- Results and streak data remain in localStorage and are not uploaded.
